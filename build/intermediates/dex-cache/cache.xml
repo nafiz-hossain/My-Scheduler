@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nafiz/MyScheduler/myscheduler_login/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_35367784caaae4f6e162dc0bc3ed98cd0e784b72.jar" />
+    </item>
+
+</items>

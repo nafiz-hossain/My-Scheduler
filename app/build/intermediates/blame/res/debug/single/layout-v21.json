@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_view_send_comment_button.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_view_send_comment_button.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_welcome_layout.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_welcome_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_profile_page.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_profile_page.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_publish.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_publish.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/blah.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/blah.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/newsfeed_dialog_layout.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/newsfeed_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_activity_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/notification_activity_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_create_account.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_create_account.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/home_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/home_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/forgotpassword_layout.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/forgotpassword_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/dash_board_home.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/dash_board_home.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_news_feed.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_news_feed.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/custom_toast.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/custom_toast.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_feed_heading.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/notification_feed_heading.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/signup_layout.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/signup_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_drawer.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_drawer.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/dashboard_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/dashboard_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_activity_splash.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_activity_splash.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/newsfeed_card_layout.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/newsfeed_card_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/newsfeed_activity_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/newsfeed_activity_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_fragment_screen3.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_fragment_screen3.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_item_feed_loader.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_item_feed_loader.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/dash_bar_home.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/dash_bar_home.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_view_context_menu.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_view_context_menu.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_item_photo_filter.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_item_photo_filter.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_activity_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_activity_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_fragment_screen4.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_fragment_screen4.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_fragment_screen1.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_fragment_screen1.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_view_global_menu_header.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_view_global_menu_header.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_menu_item_view.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_menu_item_view.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_comments.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_comments.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/nav_header_home.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_item_photo.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_item_photo.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_item_feed.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_item_feed.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_take_photo.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_take_photo.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_view_feed_toolbar.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_view_feed_toolbar.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_teachers_profile.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_teachers_profile.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_feed_item.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/notification_feed_item.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_activity_user_profile.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_activity_user_profile.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/fifth_reminder.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/fifth_reminder.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_google_sign_in.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_google_sign_in.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_facebook_sign_in.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_facebook_sign_in.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/new_item_comment.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/new_item_comment.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/splash_fragment_screen2.xml",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/layout/splash_fragment_screen2.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/res/layout/notification_template_media_custom.xml"
+    }
+]

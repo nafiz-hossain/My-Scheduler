@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/password.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/confirm_password.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/confirm_password.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/error.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/location.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/location.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/phone.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/drawer_shadow.9.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-hdpi/user.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-hdpi/user.png"
+    }
+]

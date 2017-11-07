@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:scaleX="1.15"
+        />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="350dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginLeft="140dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="350dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="180dp"
+        android:layout_height="130dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="250dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="180dp"
+        android:layout_height="130dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="250dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginLeft="140dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginLeft="140dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginTop="150dp"
+        android:layout_alignParentTop="false"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+    <ImageButton
+        android:id="@+id/Profile"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_weight="0.07"
+        android:background="@null"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:layout_marginStart="140dp"
+        android:layout_marginLeft="140dp"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton"
+        android:layout_alignTop="@+id/ReminderButton"
+        android:layout_alignBottom="@+id/ReminderButton" />
+
+
+    <ImageButton
+        android:id="@+id/ReminderButton"
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+        android:background="@null"
+        android:layout_weight="0.07"
+        app:srcCompat="@android:drawable/spinner_background"
+        android:scaleX="1.50"
+        android:scaleY="1.55"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="47dp" />
+
+    <ImageButton
+        android:id="@+id/Settings"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_weight="0.02"
+        android:background="@null"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        app:srcCompat="@android:drawable/ic_menu_more" />
+
+    <TextView
+        android:id="@+id/ProfileText"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="Profile"
+        android:layout_below="@+id/ReminderButton"
+        android:layout_alignLeft="@+id/BPUpdate"
+        android:layout_alignStart="@+id/BPUpdate"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp" />
+
+    <TextView
+        android:id="@+id/ReminderText"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:textColor="@android:color/white"
+        android:text="Reminder"
+        android:layout_below="@+id/Profile"
+        android:layout_toRightOf="@+id/ReminderButton"
+        android:layout_toEndOf="@+id/ReminderButton" />
+
+    <TextView
+        android:id="@+id/BPUpdate"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="Blood Pressure
+       Update"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/TempUpdate"
+        android:layout_toStartOf="@+id/TempUpdate"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp" />
+
+    <TextView
+        android:id="@+id/TempUpdate"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="Temperature Update"
+        android:layout_alignBaseline="@+id/BPUpdate"
+        android:layout_alignBottom="@+id/BPUpdate"
+        android:layout_alignLeft="@+id/imageButton5"
+        android:layout_alignStart="@+id/imageButton5"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp" />
+
+    <TextView
+        android:id="@+id/NearbyClinics"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="Nearby Clinics"
+        android:layout_alignBottom="@+id/imageButton6"
+        android:layout_alignLeft="@+id/BPUpdate"
+        android:layout_alignStart="@+id/BPUpdate" />
+    <TextView
+        android:id="@+id/Emergency"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="Emergency"
+        android:layout_alignBottom="@+id/imageButton5"
+        android:layout_alignLeft="@+id/ReminderText"
+        android:layout_alignStart="@+id/ReminderText" />
+
+    <TextView
+        android:id="@+id/History"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="History"
+        android:layout_marginBottom="22dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/ProfileText"
+        android:layout_alignStart="@+id/ProfileText" />
+
+    <TextView
+        android:id="@+id/CheckUp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="CheckUp"
+        android:layout_alignBaseline="@+id/History"
+        android:layout_alignBottom="@+id/History"
+        android:layout_alignRight="@+id/ReminderText"
+        android:layout_alignEnd="@+id/ReminderText" />
+
+
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:id="@+id/imageView2"
+        android:layout_alignTop="@+id/Profile"
+        android:layout_toLeftOf="@+id/ReminderText"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp"
+        android:layout_alignLeft="@+id/ReminderButton"
+        android:layout_alignStart="@+id/ReminderButton" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:layout_alignTop="@+id/Profile"
+        android:layout_toRightOf="@+id/ReminderButton"
+        android:layout_alignRight="@+id/Emergency"
+        android:layout_alignEnd="@+id/Emergency"
+        android:id="@+id/imageView" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:layout_above="@+id/BPUpdate"
+        android:layout_alignRight="@+id/NearbyClinics"
+        android:layout_alignEnd="@+id/NearbyClinics"
+        android:layout_alignLeft="@+id/BPUpdate"
+        android:layout_alignStart="@+id/BPUpdate"
+        android:id="@+id/imageView5" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:layout_above="@+id/TempUpdate"
+        android:layout_toRightOf="@+id/imageView3"
+        android:layout_alignRight="@+id/imageButton4"
+        android:layout_alignEnd="@+id/imageButton4" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:layout_below="@+id/BPUpdate"
+        android:layout_alignRight="@+id/BPUpdate"
+        android:layout_alignEnd="@+id/BPUpdate"
+        android:layout_alignLeft="@+id/BPUpdate"
+        android:layout_alignStart="@+id/BPUpdate"
+        android:id="@+id/imageView3" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.78"
+        android:scaleY="0.8"
+        android:layout_below="@+id/BPUpdate"
+        android:layout_alignRight="@+id/imageButton8"
+        android:layout_alignEnd="@+id/imageButton8"
+        android:layout_toEndOf="@+id/imageView3"
+        android:layout_toRightOf="@+id/imageView3"
+        android:layout_above="@+id/Emergency" />
+
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:layout_above="@+id/History"
+        android:layout_alignRight="@+id/NearbyClinics"
+        android:layout_alignEnd="@+id/NearbyClinics"
+        android:layout_alignLeft="@+id/NearbyClinics"
+        android:layout_alignStart="@+id/NearbyClinics"
+        android:id="@+id/imageView4" />
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+
+        android:background="@null"
+        android:layout_weight="0.07"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:layout_above="@+id/CheckUp"
+        android:layout_toRightOf="@+id/imageView4"
+        android:layout_alignRight="@+id/imageButton8"
+        android:layout_alignEnd="@+id/imageButton8" />
+
+
+</RelativeLayout>

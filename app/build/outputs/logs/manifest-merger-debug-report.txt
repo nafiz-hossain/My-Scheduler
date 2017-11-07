@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nafiz/.android/build-cache/b83edf6c30e6dcd43061c8db7cb1abd2b5650ff0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/nafiz/.android/build-cache/f3977058179d69543c9e2accce520f17ae3d33e4/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/nafiz/.android/build-cache/ccc6b83b83c91847b1f59145c3b8fa1b3af26c2e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/nafiz/.android/build-cache/a6d37117c6f5dc4bc7072c1d0af8c23e2dafae03/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/nafiz/.android/build-cache/c59a4f061fd99f18037b267130740124d87e256b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/nafiz/.android/build-cache/e7931ee1f31f377d54ff7dd6eb7a49a565a254c8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/nafiz/.android/build-cache/59676d9a4dac800585cc34a8df0d61f88104294e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/nafiz/.android/build-cache/0b4a4752a75b0dc04fcda441244f424ebb4a841e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/nafiz/.android/build-cache/5b00d4474c93f894fe74c3e4e4ae38e1bc525bf8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/nafiz/.android/build-cache/3a2e3ac521577c01b45156c697c10305dd2248c8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/nafiz/.android/build-cache/9dab20a8c2d67bced5dd350d25f10bab4c7a6c22/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/6cf459f158a0597e126c1e6fe99f6aea68107027/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/a23dc3423f8537d9faf3737c9f7685c1b2d4b804/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/nafiz/.android/build-cache/47349b895f3cc8c1974bbdb1129bd34798ff09d7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/98354fcbc27a116e55069868c348c84f56ba2c29/output/AndroidManifest.xml:20:5-44
+MERGED from [com.mindorks:placeholderview:0.2.7] /home/nafiz/.android/build-cache/4cb56a89303d0c893c6962305b5f579ce0b8c254/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/85dc203171515c1b4a6037142ec71def77c8b64e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] /home/nafiz/.android/build-cache/d84597c3bdcad3cf076bda7be889e6df37eaf400/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nafiz/.android/build-cache/3acc89f7de91b3e1b157a37191fdad6b93fb327a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/0be013dbe36949a45e82565c2dbafc1bb395533c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nafiz/.android/build-cache/c7783c694bd78e4edc852e2550a88c2105bf2a3c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nafiz/.android/build-cache/1c2f3088e3a3eb1d5c747a4e1c7443cf2e1da4a1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/03cc36766d3661c2cc78f39fe0b8e31a6f7e959d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nafiz/.android/build-cache/72300480e1c48a9a8b403751cdae4a63983f43bd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/6aa7e7a7a6b392020ae554b8679e70d54726dee1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.4.0] /home/nafiz/.android/build-cache/c85ed57f76e26685f0209d7ea138a6570c9f5f57/output/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.3.1] /home/nafiz/.android/build-cache/dacf267908aadc5834e5e3cc25808961188d259c/output/AndroidManifest.xml:6:5-43
+MERGED from [com.commonsware.cwac:camera:0.7.0] /home/nafiz/.android/build-cache/ec67e53cf9013d02b60ac759c145ec27ee8cb682/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/nafiz/.android/build-cache/1154143a0eef66092debc0c4c8b2822e7a3b9b2b/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:16:5-53:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nafiz/.android/build-cache/b83edf6c30e6dcd43061c8db7cb1abd2b5650ff0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/nafiz/.android/build-cache/f3977058179d69543c9e2accce520f17ae3d33e4/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/nafiz/.android/build-cache/0b4a4752a75b0dc04fcda441244f424ebb4a841e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/nafiz/.android/build-cache/5b00d4474c93f894fe74c3e4e4ae38e1bc525bf8/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/nafiz/.android/build-cache/3a2e3ac521577c01b45156c697c10305dd2248c8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/nafiz/.android/build-cache/9dab20a8c2d67bced5dd350d25f10bab4c7a6c22/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/6cf459f158a0597e126c1e6fe99f6aea68107027/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/a23dc3423f8537d9faf3737c9f7685c1b2d4b804/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/nafiz/.android/build-cache/47349b895f3cc8c1974bbdb1129bd34798ff09d7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/98354fcbc27a116e55069868c348c84f56ba2c29/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] /home/nafiz/.android/build-cache/d84597c3bdcad3cf076bda7be889e6df37eaf400/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nafiz/.android/build-cache/3acc89f7de91b3e1b157a37191fdad6b93fb327a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/0be013dbe36949a45e82565c2dbafc1bb395533c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nafiz/.android/build-cache/c7783c694bd78e4edc852e2550a88c2105bf2a3c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nafiz/.android/build-cache/1c2f3088e3a3eb1d5c747a4e1c7443cf2e1da4a1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/03cc36766d3661c2cc78f39fe0b8e31a6f7e959d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nafiz/.android/build-cache/72300480e1c48a9a8b403751cdae4a63983f43bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/6aa7e7a7a6b392020ae554b8679e70d54726dee1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.jakewharton.timber:timber:4.3.1] /home/nafiz/.android/build-cache/dacf267908aadc5834e5e3cc25808961188d259c/output/AndroidManifest.xml:8:5-20
+MERGED from [com.commonsware.cwac:camera:0.7.0] /home/nafiz/.android/build-cache/ec67e53cf9013d02b60ac759c145ec27ee8cb682/output/AndroidManifest.xml:11:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/nafiz/.android/build-cache/1154143a0eef66092debc0c4c8b2822e7a3b9b2b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.myscheduler.splashscreen.SplashScreen
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:22:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.myscheduler.Login.SignInActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:31:9-67
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:31:19-55
+activity#com.myscheduler.Login.NewsFeedActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:32:9-34:40
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:33:13-51
+activity#com.myscheduler.Login.FacebookSignInActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:35:9-37:46
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:36:13-57
+activity#com.myscheduler.Login.GoogleSignInActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:38:19-61
+activity#com.myscheduler.Login.ProfilePageActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:39:9-40:41
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:40:13-39
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:39:19-60
+activity#com.myscheduler.Login.CreateAccountActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:41:9-43:46
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:42:13-56
+activity#com.myscheduler.Notification.MainActivity
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:44:9-45:53
+	android:label
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:45:13-41
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:44:19-60
+activity#com.myscheduler.HomeScreen.Dashboard
+ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:47:9-49:20
+	android:name
+		ADDED from /home/nafiz/MyScheduler/myscheduler_login/app/src/main/AndroidManifest.xml:47:19-55
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/nafiz/.android/build-cache/86c380610158ff28dae0af050423fd2e83a3c59b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/nafiz/.android/build-cache/fdfcdf2654b0f532459339912bd479e863e43631/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/nafiz/.android/build-cache/1b761620863c03c7755bc172d4117653d572a427/output/AndroidManifest.xml:46:25-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/nafiz/.android/build-cache/5a009ef4984344c1852e58fdcf60bc65d85cf3e3/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/nafiz/.android/build-cache/69129a3c2662f4c402ee66d1474a6dec724c3725/output/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/nafiz/.android/build-cache/b75149b4a3caa68b1782c5481378ed841dbb577d/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/nafiz/.android/build-cache/9dab20a8c2d67bced5dd350d25f10bab4c7a6c22/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/nafiz/.android/build-cache/9dab20a8c2d67bced5dd350d25f10bab4c7a6c22/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/nafiz/.android/build-cache/9dab20a8c2d67bced5dd350d25f10bab4c7a6c22/output/AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/93360dfb0ea4261583ef41a9154b93094dc0e345/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/6cf459f158a0597e126c1e6fe99f6aea68107027/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/nafiz/.android/build-cache/a23dc3423f8537d9faf3737c9f7685c1b2d4b804/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/nafiz/.android/build-cache/47349b895f3cc8c1974bbdb1129bd34798ff09d7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/98354fcbc27a116e55069868c348c84f56ba2c29/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/85dc203171515c1b4a6037142ec71def77c8b64e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] /home/nafiz/.android/build-cache/d84597c3bdcad3cf076bda7be889e6df37eaf400/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/nafiz/.android/build-cache/3acc89f7de91b3e1b157a37191fdad6b93fb327a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/0be013dbe36949a45e82565c2dbafc1bb395533c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/nafiz/.android/build-cache/c7783c694bd78e4edc852e2550a88c2105bf2a3c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/nafiz/.android/build-cache/1c2f3088e3a3eb1d5c747a4e1c7443cf2e1da4a1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] /home/nafiz/.android/build-cache/03cc36766d3661c2cc78f39fe0b8e31a6f7e959d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/nafiz/.android/build-cache/72300480e1c48a9a8b403751cdae4a63983f43bd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/nafiz/.android/build-cache/6aa7e7a7a6b392020ae554b8679e70d54726dee1/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/nafiz/.android/build-cache/ea2b0e2954798cdb624361d3d566af0d21123136/output/AndroidManifest.xml:26:9-47

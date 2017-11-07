@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343308557267",
+    "firebase_url": "https://fir-app-1fda5.firebaseio.com",
+    "project_id": "fir-app-1fda5",
+    "storage_bucket": "fir-app-1fda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343308557267:android:3831402310ea2a6f",
+        "android_client_info": {
+          "package_name": "com.myscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343308557267-5c3qun4d7n2o2mvujtgnq4p01ea5umkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myscheduler",
+            "certificate_hash": "9503116ddc593192b6ae2de16a127e03f0b0487d"
+          }
+        },
+        {
+          "client_id": "343308557267-h9nb8srcp8tfo3vuiefpldo6vos3t2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1tIjUM2kzr7rXQuEqXsZ03K9wPOBE-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343308557267-h9nb8srcp8tfo3vuiefpldo6vos3t2j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

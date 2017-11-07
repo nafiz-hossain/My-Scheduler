@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/create_new_2.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/create_new_2.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_drawer.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/calendar.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/calendar.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/username.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/username.png"
+    },
+    {
+        "merged": "/home/nafiz/MyScheduler/myscheduler_login/app/build/intermediates/res/merged/debug/drawable-xxhdpi/drawer_shadow.9.png",
+        "source": "/home/nafiz/MyScheduler/myscheduler_login/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
+    }
+]
